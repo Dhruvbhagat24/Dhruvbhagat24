@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi there! 👋 I'm Dhruv Bhagat — an Android developer, AI/ML enthusiast, and game dev hobbyist passionate about crafting smooth, secure, and real-world user experiences.<br><br>🛠️ I specialize in:<br>- 📱 Android app development using Dart & Flutter<br>- ☁️ Firebase integration for real-time, scalable apps<br>- 🎮 Game development in Unity using C#<br>- 🤖 Exploring AI/ML to enhance mobile and gaming experiences<br>- 🔒 Writing clean, secure, and efficient code<br><br>Currently blending mobile development, real-world data, and interactive game environments. Always open to learning, collaborating, and building something impactful.<br><br>📍 Based in Vadodara, India | 💬 Let’s connect!<br>
+#  Hi there! I'm Dhruv Bhagat 
+A 3rd year computer science student passionate in Android developer, AI/ML enthusiast, and game dev hobbyist passionate about crafting smooth, secure, and real-world user experiences.<br><br>
+
+# About Me:
+🛠️ I specialize in:<br>- 📱 Android app development using Dart & Flutter<br>- ☁️ Firebase integration for real-time, scalable apps<br>- 🎮 Game development in Unity using C#<br>- 🤖 Exploring AI/ML to enhance mobile and gaming experiences<br>- 🔒 Writing clean, secure, and efficient code<br><br>Currently blending mobile development, real-world data, and interactive game environments. Always open to learning, collaborating, and building something impactful.<br><br>📍 Based in Vadodara, India | 💬 Let’s connect!<br>
 
 
 ## 🌐 Socials:
