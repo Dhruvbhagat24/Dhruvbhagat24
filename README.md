@@ -2,7 +2,7 @@
 A motivated Computer Science student specializing in Android development, with a strong interest in AI/ML and game development, committed to building secure, efficient, and user-centric digital experiences.
 
 # About Me:
-🛠️ I specialize in:<br>- ndroid app development using Dart & Flutter<br>-  Firebase integration for real-time, scalable apps<br>- Game development in Unity using C#<br>- Exploring AI/ML to enhance mobile and gaming experiences<br>- Writing clean, secure, and efficient code<br><br>Currently blending mobile development, real-world data, and interactive game environments. Always open to learning, collaborating, and building something impactful.<br><br>📍 Based in Vadodara, India | 💬 Let’s connect!<br>
+I specialize in:<br>- Android app development using Dart & Flutter<br>-  Firebase integration for real-time, scalable apps<br>- Game development in Unity using C#<br>- Exploring AI/ML to enhance mobile and gaming experiences<br>- Writing clean, secure, and efficient code<br><br>📍 Based in Vadodara, India | 💬 Let’s connect!<br>
 
 
 ## 🌐 Socials:
