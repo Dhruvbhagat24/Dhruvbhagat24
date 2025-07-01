@@ -17,6 +17,5 @@ Hi there! 👋 I'm Dhruv Bhagat — an Android developer, AI/ML enthusiast, and 
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
