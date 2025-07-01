@@ -15,4 +15,9 @@ Hi there! 👋 I'm Dhruv Bhagat — an Android developer, AI/ML enthusiast, and 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruvbhagat24&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhruvbhagat24&theme=gruvbox&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
