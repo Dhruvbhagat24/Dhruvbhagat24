@@ -99,16 +99,6 @@ IoT-based hostel safety system using Flutter, Firebase and ESP32.
 
 ---
 
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Dhruvbhagat24\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvbhagat24\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvbhagat24\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Dhruvbhagat24\&theme=tokyonight\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
