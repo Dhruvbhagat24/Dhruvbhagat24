@@ -1,24 +1,120 @@
-#  Hi there! I'm Dhruv Bhagat 
-A motivated Computer Science student specializing in Android development, with a strong interest in AI/ML and game development, committed to building secure, efficient, and user-centric digital experiences.
+# Hi there 👋 I'm Dhruv Bhagat
 
-# About Me:
-I specialize in:<br>- Android app development using Dart & Flutter<br>-  Firebase integration for real-time, scalable apps<br>- Game development in Unity using C#<br>- Exploring AI/ML to enhance mobile and gaming experiences<br>- Writing clean, secure, and efficient code<br><br>📍 Based in Vadodara, India | 💬 Let’s connect!<br>
+### AI/ML Engineer • Computer Vision • Backend Developer • B.Tech CSE '27
 
+I'm a Computer Science undergraduate at **CHARUSAT University** passionate about building intelligent software powered by **Machine Learning, Deep Learning, Computer Vision, and Generative AI**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvv.bhagat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruv-bhagat-0a289a284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhagatdhruv2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruvbhagat24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dhruvbhagat24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvbhagat24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy solving real-world problems by combining AI with scalable backend systems and continuously exploring modern technologies like **LLMs, Agentic AI, MLOps, and Cloud Computing**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhruvbhagat24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏆 GitHub Trophies
+## 🚀 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🎓 B.Tech in Computer Science (2027)
+* 🤖 Interested in Artificial Intelligence, Machine Learning & Deep Learning
+* 👁️ Building Computer Vision applications using PyTorch
+* 🧠 Exploring LLMs, RAG Systems, Agentic AI & Generative AI
+* 🌐 Backend Development using FastAPI, Node.js & Express.js
+* 📊 Passionate about Data Science and AI-powered products
+* 💡 Always learning new technologies and solving challenging problems
+
+---
+
+## 💼 Currently Working On
+
+* ♻️ **EcoSort AI** – AI-powered waste classification using Deep Learning
+* 🧠 Training Computer Vision models with PyTorch
+* ⚡ REST APIs using FastAPI & Express.js
+* ☁️ Learning AWS and MLOps
+* 📚 Preparing for Software Engineering & AI/ML roles
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### ♻️ EcoSort AI
+
+AI-powered waste classification system using Deep Learning, PyTorch, FastAPI, Express.js and MongoDB.
+
+### 🏢 Smart ERP System
+
+Enterprise ERP platform built with React.js, Express.js and PostgreSQL.
+
+### 🔍 SPYVERSE
+
+Image Steganography application using Django, OpenCV and Cryptography.
+
+### 🛡️ SafeGuard
+
+IoT-based hostel safety system using Flutter, Firebase and ESP32.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dhruv-bhagat-0a289a284)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dhruvbhagat24)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/dhruvv.bhagat)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bhagatdhruv2005@gmail.com)
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Dhruvbhagat24\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvbhagat24\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvbhagat24\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Dhruvbhagat24\&theme=tokyonight\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Dhruvbhagat24\&style=for-the-badge)
+
+### ⭐ *"Building intelligent systems that solve real-world problems through AI and Software Engineering."*
